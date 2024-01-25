@@ -1,0 +1,10 @@
+E:\practice and self-learning\programming advices\C# level 1\Tic_Tac_Toe_After\bin\Debug\Tic_Tac_Toe_After.exe.config
+E:\practice and self-learning\programming advices\C# level 1\Tic_Tac_Toe_After\bin\Debug\Tic_Tac_Toe_After.exe
+E:\practice and self-learning\programming advices\C# level 1\Tic_Tac_Toe_After\bin\Debug\Tic_Tac_Toe_After.pdb
+E:\practice and self-learning\programming advices\C# level 1\Tic_Tac_Toe_After\obj\Debug\Tic_Tac_Toe_After.csprojAssemblyReference.cache
+E:\practice and self-learning\programming advices\C# level 1\Tic_Tac_Toe_After\obj\Debug\Tic_Tac_Toe_After.Form1.resources
+E:\practice and self-learning\programming advices\C# level 1\Tic_Tac_Toe_After\obj\Debug\Tic_Tac_Toe_After.Properties.Resources.resources
+E:\practice and self-learning\programming advices\C# level 1\Tic_Tac_Toe_After\obj\Debug\Tic_Tac_Toe_After.csproj.GenerateResource.cache
+E:\practice and self-learning\programming advices\C# level 1\Tic_Tac_Toe_After\obj\Debug\Tic_Tac_Toe_After.csproj.CoreCompileInputs.cache
+E:\practice and self-learning\programming advices\C# level 1\Tic_Tac_Toe_After\obj\Debug\Tic_Tac_Toe_After.exe
+E:\practice and self-learning\programming advices\C# level 1\Tic_Tac_Toe_After\obj\Debug\Tic_Tac_Toe_After.pdb
